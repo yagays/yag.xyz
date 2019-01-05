@@ -1,0 +1,36 @@
+baseURL = "http://yag.xyz/"
+languageCode = "ja"
+title = ""
+theme = "hugo-bingo"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog (old)"
+    url = "/blog"
+    weight = 20
+
+[params]
+
+  [[params.social]]
+    icon = "github"
+    url = "https://github.com/yagays"
+    weight = 10
+
+  [[params.social]]
+    icon = "twitter"
+    url = "https://twitter.com/yag_ays"
+    weight = 30
+
+  [[params.social]]
+    icon = "linkedin"
+    url = "https://www.linkedin.com/in/yukiokuda"
+    weight = 20

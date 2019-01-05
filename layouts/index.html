@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main id="home">
+    <div>
+        <div class="avatar">
+            <img src="img/profile.png">
+        </div>
+        <div id="content">
+            {{ .Content }}
+            {{ .Render "social-links" }}
+            {{ .Render "profile" }}
+        </div>
+    </div>
+</main>
+{{ end }}
