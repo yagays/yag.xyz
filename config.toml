@@ -1,8 +1,10 @@
 baseURL = "https://yag.xyz/"
 languageCode = "ja"
-title = ""
+title = "Yuki Okuda"
 theme = "hugo-bingo"
 
+[permalinks]
+  blog = "/:year/:month/:day/:filename/"
 
 [menu]
 
