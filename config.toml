@@ -1,4 +1,4 @@
-baseURL = "http://yag.xyz/"
+baseURL = "https://nervous-neumann-e39b87.netlify.com/"
 languageCode = "ja"
 title = ""
 theme = "hugo-bingo"
