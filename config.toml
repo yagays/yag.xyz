@@ -3,6 +3,8 @@ languageCode = "ja"
 title = "Yuki Okuda"
 theme = "hugo-bingo"
 
+googleAnalytics = "UA-17620484-9"
+
 [permalinks]
   blog = "blog/:year/:month/:day/:filename/"
 
