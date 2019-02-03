@@ -20,6 +20,12 @@ googleAnalytics = "UA-17620484-9"
     identifier = "blog"
     name = "Blog (old)"
     url = "/blog"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "blog_yag-ays"
+    name = "Blog (external)"
+    url = "https://yag-ays.github.io/"
     weight = 20
 
 [params]
